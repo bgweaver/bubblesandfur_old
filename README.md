@@ -2,6 +2,7 @@
 
 Welcome to the archived version of the Bubbles & Fur website! This project represents my first experience in creating a site for a client, providing valuable lessons and insights into web development. Since this version was published, the site has undergone significant updates to enhance performance and user experience. You can view the current version of the website on [GitHub](https://github.com/bgweaver/bubblesandfur).
 
+You can view the archived version live at: [Bubbles & Fur (Old)](https://bgweaver.github.io/bubblesandfur_old/)
 ## Reflections on the Project
 
 As a web developer, each project offers new challenges and opportunities for growth. This project was no exception, and I’m proud of the progress I’ve made. Here are some key aspects I want to reflect on regarding what went well and where I see room for improvement:
